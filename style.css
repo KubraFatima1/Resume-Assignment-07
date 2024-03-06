@@ -1,0 +1,119 @@
+.black{
+  color: black;
+  text-transform: uppercase;
+  font-style: oblique
+}
+
+.gray{
+  color: darkgray;
+  font-style: oblique;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+body{
+  width: 100%;
+  font-size: 1.6em;
+  margin: 0px;
+  padding: 0px;
+  height: auto;
+  background-color: white;
+}
+
+a{
+  color: brown;
+}
+
+div{
+  background-color: white;
+  display: inline-block;
+  float: right;
+  list-style: inside;
+  padding-left: 80px;
+}
+
+.orange{
+  color: coral;
+}
+
+h1{
+  font-size: 2em;
+}
+
+p{
+  color: gray;
+}
+
+ul li{
+  color: gray;
+}
+
+h1{
+  text-transform: uppercase;
+}
+
+.main{
+  background-color: coral;
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+  height: 900vh;
+  position: fixed;
+  padding-top:220px;
+}
+
+.main ul{
+  list-style-type: none;
+}
+
+.main a{
+  color: #F0ECECD1;
+  text-decoration: none;
+  line-height: 60px;
+  font-weight: bold;
+}
+
+ li>a:hover{
+  color: white;
+} 
+
+.main img{
+  border-radius: 100px;
+  margin-left: 20px;
+  width: 200px;
+  height: 200;
+  border: 5px solid orange;
+}
+
+.parant{
+  width: 656px;
+  background-color: white;
+  padding: 20px;
+  margin-left: 0px;
+}
+
+.four{
+  font-size: 1.5em;
+  display: inline-block;
+  list-style: none;
+}
+
+ol>li:active{
+  color: orange;
+}
+
+.dot{
+  list-style: none;
+  font-size: 2em;
+  display: inline-block;
+  color: none;
+}
+
+.dott li i{
+  color: gold;
+}
+
+.dott li{
+  list-style: none;
+  line-height: 1.5em;
+}
